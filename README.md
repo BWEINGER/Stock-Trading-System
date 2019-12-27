@@ -1,2 +1,2 @@
-# Stock-Trading-System
+# Stock Trading System
 This project simulates a stock trading system by providing an interactive website that the user can use to buy/sell stocks. It includes manager, employee, and customer access levels, each given a set of options to perform that will query a database using JDBC code. Notable among these features includes trailing/hidden stops, requiring a more complex algorithmic approach to sell stocks when prices reach specific values relative to the original purchase price.
